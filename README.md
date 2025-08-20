@@ -19,7 +19,7 @@ HTML sets up the calculator's layout as a grid of buttons under a display input.
 
 3. **Body Section (`<body>`)**:  
    - **Calculator Div (`<div class="calculator">`)**: Main container for all elements, styled as a boxed panel.  
-   - **Input Section (`<input type="text" placeholder="0" id="inputBox" readonly>`)**: Text input for display. Placeholder starts at "0", `readonly` prevents direct typing, `id="inputBox"` for JS targeting. No heading tag used (e.g., <h1>), but could add one for a title! 📟  
+   - **Input Section (`<input type="text" placeholder="0" id="inputBox" readonly>`)**: Text input for display. Placeholder starts at "0", `readonly` prevents direct typing, `id="inputBox"` for JS targeting! 📟  
    - **Button Rows (`<div>` wrappers)**: Five unnamed <div> elements act as rows (implicit grid via CSS). Each contains <button> elements:  
      - First row: Operators AC (clear), DEL (delete), % (modulo), / (divide). Class "operator" for styling.  
      - Second row: Numbers 7,8,9 and * (multiply, operator class).  
@@ -76,8 +76,7 @@ JS makes the calculator interactive, handling button clicks to build and evaluat
 
 
 ## Demo Video 🎥📹
-## 🎥 Demo Video  
-
+  
 [![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
 
 🔗 Watch here: [YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) | [Google Drive](https://drive.google.com/file/d/FILE_ID/view?usp=sharing)
