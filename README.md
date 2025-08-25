@@ -77,7 +77,7 @@ JS makes the calculator interactive, handling button clicks to build and evaluat
 
 ## Demo Video 🎥📹
 
-[🔗![YouTube](<img width="762" height="601" alt="java-simplecalculator"/>)](https://youtu.be/m_9Ufof7dVs)  
+[![YouTube](<img width="762" height="601" alt="java-simplecalculator"/>)](https://youtu.be/m_9Ufof7dVs)  
  
 ## Conclusion & Inspiration 🌟🌠
 This calculator showcases the magic of web basics – from structured HTML to stylish CSS and dynamic JS. "Calculate your dreams into reality – code today, innovate tomorrow!" ✨
